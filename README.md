@@ -3,7 +3,7 @@
 |---|---|
 | question_id | key-rate-hold-2026-12-18 |
 | author | Ann2str |
-| topic | ставки |
+| topic | ключевая ставка |
 | opens | 2026-11-12 |
 | resolve_by | 2026-12-18 |
 | horizon | H1 |
